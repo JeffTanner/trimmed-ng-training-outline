@@ -366,7 +366,7 @@ Modules to cover from Fundamentals on Angular.io:
 ## Routing & Navigation
 * __M__ Overview
 * __M__ The basics
-	* __M__ <base href>
+	* __M__ `<base href>`
 	* __M__ Router imports
 	* __M__ Configuration
 	* __M__ Router outlet
