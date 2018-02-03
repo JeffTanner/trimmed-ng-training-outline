@@ -1,3 +1,5 @@
+[Full Training Outline](./README.md)
+
 
 ### LEGEND
 __M__ Developer
