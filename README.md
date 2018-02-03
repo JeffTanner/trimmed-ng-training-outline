@@ -1,3 +1,5 @@
+[Exercises for Developers](./DEVELOPER_EXERCISES.md)
+
 May need to add a short module on what decorators are and what they do
 
 Anything declared in the AppModule is available app wide, submodule declarations are only available to the declarable items connected with that specific module
