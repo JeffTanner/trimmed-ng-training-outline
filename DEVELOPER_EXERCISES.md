@@ -11,7 +11,7 @@ __PREP__: Each person should have an Angular/Typscript BP created from the gener
 Modules to cover from Fundamentals on Angular.io:
 ## Architecture
 * __EXERCISE__: No exercies. This section should be purely an overview/introduction to topics that will be covered in more detail throughout the course
-
+fbase
 ## Template & Data Binding
 * Displaying Data
 	* __M__ Showing component properties with interpolation
@@ -21,6 +21,13 @@ Modules to cover from Fundamentals on Angular.io:
 	* __M__ Creating a class for the data
 	* __M__ Conditional display with *ngIf
 	* Summary
+    * __EXERCISE__: 
+        1. Create a new component with `ng g component`
+        2. Display text using interpolation
+        3. Create a new class with `ng g class`
+        4. Add an array of items that are instances of the generated class
+        5. Display the array of items in the HTML using `*ngFor`
+        6. Create an HTML element and add an `*ngIf` to make it conditionally show
 * Template Syntax
 	* __M__ Template Expressions
 		* __M__ Expression context
@@ -193,7 +200,7 @@ Modules to cover from Fundamentals on Angular.io:
 ## Routing & Navigation
 * __M__ Overview
 * __M__ The basics
-	* __M__ <base href>
+	* __M__ `<base href>`
 	* __M__ Router imports
 	* __M__ Configuration
 	* __M__ Router outlet
