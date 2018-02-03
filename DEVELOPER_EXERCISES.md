@@ -1,6 +1,8 @@
 [Full Training Outline](./README.md)
 
 
+Possible way to run the training: Go through one section at a time, complete lecture. Once a section is done then the students do exercises that reinforce what was taught.
+
 ### LEGEND
 __M__ Developer
 
