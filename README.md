@@ -13,9 +13,11 @@ Topic of observables needs to be covered briefly, just enough so they know how t
 
 
 ### LEGEND
-__M__ Mandatory Developer
+__M__ Developer
 
 __D__ Designer
+
+__DO__ Designer - overview concepts, no need to get deep into the content
 
 __A__ Advanced Topic
 
@@ -48,28 +50,28 @@ Modules to cover from Fundamentals on Angular.io:
 * Template Syntax
 	* HTML in templates
 	* Interpolation ( {{…}} )
-	* __M__ __D__ Template Expressions
-		* __M__ __D__ Expression context
-		* __M__ __D__ Expression guidelines
-	* __M__ __D__ Template Statements
-		* __M__ __D__ Statement context
-		* __M__ __D__ Statement guidelines
-	* __M__ __D__ Binding syntex: An overview
-		* __M__ __D__ A new mental model
-		* __M__ __D__ HTML attribute vs. DOM property
-		* __M__ __D__ Binding targets
+	* __M__ __DO__ Template Expressions
+		* __M__ __DO__ Expression context
+		* __M__ __DO__ Expression guidelines
+	* __M__ __DO__ Template Statements
+		* __M__ __DO__ Statement context
+		* __M__ __DO__ Statement guidelines
+	* __M__ __DO__ Binding syntex: An overview
+		* __M__ __DO__ A new mental model
+		* __M__ __DO__ HTML attribute vs. DOM property
+		* __M__ __DO__ Binding targets
 	* __M__ __D__ Property binding ( [property] )
-		* __M__ __D__ One-way in 
-		* __M__ __D__ binding target
-		* __M__ __D__ Avoid side effects
-		* __M__ __D__ Return the proper type
-		* __M__ __D__ Remember the brackets
-		* __M__ __D__ One-time string initialization
-		* __M__ __D__ Property binding or interpolation?
-	* __M__ __D__ Attribute, class, and style bindings
-		* __M__ __D__ Attribute binding
-		* __M__ __D__ Class binding
-		* __M__ __D__ Style binding
+		* __M__ __DO__ One-way in 
+		* __M__ __DO__ binding target
+		* __M__ __DO__ Avoid side effects
+		* __M__ __DO__ Return the proper type
+		* __M__ __DO__ Remember the brackets
+		* __M__ __DO__ One-time string initialization
+		* __M__ __DO__ Property binding or interpolation?
+	* __M__ __DO__ Attribute, class, and style bindings
+		* __M__ __DO__ Attribute binding
+		* __M__ __DO__ Class binding
+		* __M__ __DO__ Style binding
 	* __M__ Event binding ( (event) )
 		* __M__ Target event
 		* __M__ $event and event handling statements
@@ -77,7 +79,7 @@ Modules to cover from Fundamentals on Angular.io:
 		* __M__ Template statements have side effects
 	* __M__ Two-way binding ( [(…))] )
 	* Built-in directives
-	* __M__ __D__ Built-in attribute directives
+	* __M__ __DO__ Built-in attribute directives
 		* __M__ __D__ ngClass
 		* __M__ __D__ ngStyle
 		* __M__ __D__ ngModel - two-way binding to form elements with [(ngModel)]
